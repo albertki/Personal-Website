@@ -1,0 +1,26 @@
+
+p {
+  font-family: Roboto;
+}
+
+h2.section {
+  color: maroon;
+}
+.special {
+  color: blue;
+}
+.title {
+  color: teal;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+.cursive {
+  font-family: cursive;
+}
